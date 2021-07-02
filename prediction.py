@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 country = "Vietnam"
+#country = "India"
+#country = "Japan"
 
 df_confirmed = pd.read_csv("https://raw.githubusercontent.com/HungVoCs47/COVID-19-DATA-PREDICTION/main/covid_19_confirmed_cases.csv")
 df_confirmed_country = df_confirmed[df_confirmed["Country/Region"] == country]
