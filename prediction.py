@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 country = "Vietnam"
 
-df_confirmed = pd.read_csv("https://raw.githubusercontent.com/HungVoCs47/COVID-19-DATA-PREDICTION/main/covid_19.csv")
+df_confirmed = pd.read_csv("https://raw.githubusercontent.com/HungVoCs47/COVID-19-DATA-PREDICTION/main/covid_19_confirmed_cases.csv")
 df_confirmed_country = df_confirmed[df_confirmed["Country/Region"] == country]
 df_confirmed_country = pd.DataFrame(df_confirmed_country[df_confirmed_country.columns[4:]].sum(),columns=["confirmed"])
 df_confirmed_country.index = pd.to_datetime(df_confirmed_country.index,format='%m/%d/%y')
