@@ -14,7 +14,7 @@ df_confirmed_country.plot(figsize=(10,5),title="COVID confirmed cases")
 
 
 print("Total days in the dataset", len(df_confirmed_country))
-x = len(df_confirmed_country)-30
+x = len(df_confirmed_country)-14
 
 train=df_confirmed_country.iloc[:x]
 test = df_confirmed_country.iloc[x:]
