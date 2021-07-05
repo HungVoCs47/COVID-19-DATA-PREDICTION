@@ -12,4 +12,6 @@ The confirmed cases of the World:
 
 The confirmed cases of VietNam:
 
+![](VietNam.png)
+
 
