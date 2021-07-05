@@ -12,6 +12,6 @@ The confirmed cases of the World:
 
 The confirmed cases of VietNam:
 
-![](VietNam.png)
+![](https://github.com/HungVoCs47/COVID-19-DATA-PREDICTION/blob/main/VietNam.png)
 
 
