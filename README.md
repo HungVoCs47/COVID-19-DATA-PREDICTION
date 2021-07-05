@@ -14,4 +14,6 @@ The confirmed cases of VietNam:
 
 ![](https://github.com/HungVoCs47/COVID-19-DATA-PREDICTION/blob/main/VietNam.png)
 
+![](Training_loss_1.png)
+
 
