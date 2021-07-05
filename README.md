@@ -5,3 +5,5 @@ The aim of this project is constructing a Covid-19 Model Prediction for all coun
 
 
 ![](World.png)
+
+![](training loss.png)
