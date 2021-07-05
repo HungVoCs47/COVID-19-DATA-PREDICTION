@@ -5,6 +5,7 @@ The aim of this project is constructing a Covid-19 Model Prediction for all coun
 With the aforementioned predicted result, we can prepare for the large scale outbreaks and pandemics. 
 
 The confirmed cases of the World:
+
 ![](World.png)
 
 ![](Training_loss.png)
