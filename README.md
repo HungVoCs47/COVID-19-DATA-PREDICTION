@@ -6,12 +6,12 @@ With the aforementioned predicted result, we can prepare for the large scale out
 
 The confirmed cases of the World:
 
-![](World.png)
+![](World.png, width = 100)
 
 ![](Training_loss.png)
 
 The confirmed cases of VietNam:
 
-![](VietNam.png)
+![](VietNam.png, width = 100)
 
 
