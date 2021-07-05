@@ -6,7 +6,7 @@ With the aforementioned predicted result, we can prepare for the large scale out
 
 The confirmed cases of the World:
 
-![](World.png = 100x100)
+![](https://github.com/HungVoCs47/COVID-19-DATA-PREDICTION/blob/main/World.png = 100x100)
 
 ![](Training_loss.png)
 
