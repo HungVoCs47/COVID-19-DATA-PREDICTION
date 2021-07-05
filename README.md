@@ -10,3 +10,6 @@ The confirmed cases of the World:
 
 ![](Training_loss.png)
 
+The confirmed cases of VietNam:
+
+![](VietNam.png)
